@@ -1,0 +1,11 @@
+var Str1="Clean World";
+var str2="Green World";
+var result =Str1.concat(str2);
+console.log(result);
+console.log(Str1 + " "+ str2);
+console.log(Str1.length);
+console.log(Str1.toUpperCase());
+console.log(str2.toLowerCase());
+console.log(Str1.replace("World","India"));
+console.log(Str1.split(" "));
+console.log(Str1.split(" ")[0]);
